@@ -1,2 +1,2 @@
 # instagram-feed
-3 dog photos feed
+3 dogs photos feed

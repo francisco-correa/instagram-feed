@@ -1,10 +1,5 @@
-
 .wrapper {
     background-color: whitesmoke;
-   /* position: relative; 
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); */
 }
 
 .flex-container {
@@ -14,11 +9,6 @@
     margin: 0%;
     padding: 2%;
     height: 600px;
-   /* position: relative;
-    padding-left: 400px;
-    /*top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);*/
 }
 
 .title {
@@ -35,30 +25,33 @@ h1 {
 .top-image {
     background-color: white;
     height: 35px;
-    width: 41.5%;
+    width: 62.8%;
+    object-fit: contain;
+
 }
 
 .title-image {
     color: black;
-    display: inline-block; 
+    display: inline-block;
     margin-left: 3%;
     margin-top: 10px;
     font-family: 'Jua', sans-serif;
-}   
+}
 
 .date-image {
     color: gray;
     float: right;
     margin-right: 3%;
-    margin-top: 8px;     
+    margin-top: 8px;
 }
 
 .bottom-image {
     background-color: white;
     height: 35px;
-    width: 41.5%;
-    padding-top: 30px;   
-    margin-bottom: 8%;   
+    width: 62.5%;
+    padding-top: 30px;
+    margin-bottom: 8%;
+    padding-top: 30px;
     font-family: 'Jua', sans-serif;
 }
 
